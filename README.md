@@ -12,9 +12,10 @@ Welcome to my mini test project!
    
 4) Created two endpoints to show all students and all teachers,
 
-      Endpoints:
-       http://localhost:8080/api/students
-       http://localhost:8080/api/teachers
+      <ul>Endpoints:
+      <li> http://localhost:8080/api/students</li>
+      <li> http://localhost:8080/api/teachers</li>
+       </ul>
 
 5) The possibility of sorting is also present.
 6) Also used Spring Boot possibilities like Lombok and Spring-Boot-DevTools
